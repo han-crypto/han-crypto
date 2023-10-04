@@ -1,12 +1,39 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="publications">
+<h1 id="Current teaching areas">Current areas</h1>
 
-Organize your courses by years, topics, or universities, however you like!
+<p>Cybersecurity<p>
+	
+<p>Computer Networks<p>
+	
+<p>Digital Forensics<p>
+	
+<p>Internet QoS<p>
+	
+<p>Network Management<p>
+	
+<p>Network Design<p>
+
+<h1 id="Past teaching areas">Past areas</h1>
+
+<p>Computer Architecture<p>
+	
+<p>Microprocessor based design<p>
+	
+<p>Information theory and coding<p>
+	
+<p>Computer Networks<p>
+
+<h1 id="Teaching activities">Teaching activities</h1>
+
+<p>Cyber Security for Business<p>
+
+
